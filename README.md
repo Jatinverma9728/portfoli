@@ -1,3 +1,2 @@
-# This is My old portfolio website 
-# You can visit the new portfolio 
+this is the old portfolio 
 https://vrma-portfolio.vercel.app/
